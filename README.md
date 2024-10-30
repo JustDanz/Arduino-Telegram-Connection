@@ -28,7 +28,7 @@ By sending commands via Telegram, you can trigger responses from the bot in real
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/JustDanz/arduino-telegram-bot.git
+    git clone https://github.com/JustDanz/Arduino-Telegram-Connection.git
     ```
 2. Open the `.ino` file in **Arduino IDE**.
 3. 
