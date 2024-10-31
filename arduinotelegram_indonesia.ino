@@ -2,6 +2,8 @@
 #include <UniversalTelegramBot.h>
 #include <WiFiClientSecure.h>
 
+// credit for justdanz
+
 const char* ssid = "Nama_WiFi_Anda"; // Nama WiFi
 const char* password = "Password_WiFi_Anda"; // Password WiFi
 const char* telegramToken = "TOKEN_BOT_TELEGRAM"; // Token API dari Bot Telegram
