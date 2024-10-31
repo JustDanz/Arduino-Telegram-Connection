@@ -6,6 +6,8 @@ const char* ssid = "Your_WiFi_Name"; // WiFi Name
 const char* password = "Your_WiFi_Password"; // WiFi Password
 const char* telegramToken = "YOUR_TELEGRAM_BOT_TOKEN"; // Telegram Bot API Token
 
+// credit for justdanz
+
 WiFiClientSecure client;
 UniversalTelegramBot bot(telegramToken, client);
 
